@@ -8,7 +8,7 @@ class Tests {
 	private Games games;
 	
 	@After 
-	public void pu() {
+	public void executeAfter() {
 		games = null;
 	}
 	
