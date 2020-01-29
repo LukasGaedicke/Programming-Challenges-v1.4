@@ -1,7 +1,7 @@
 # Programming-Challenges-v1.4
 
 This repository containing 2/100 challenges that will solve throughout the year 2020. See all challenges in image below.
-■■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□
+■■□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□□
 
 <img src="https://github.com/LukasGaedicke/Programming-Challenges-v1.4/blob/master/assets/challenges.jpg">
 
