@@ -21,7 +21,6 @@ Open your browser and access this url: http://localhost:8080/{NAMEOFCHALLENGE}
 
 ### Challenges Finished
 
-00 Name Generator - [Click Here](https://github.com/LukasGaedicke/Programming-Challenges-v1.4/tree/master/challenges/00-Namegenerator-API) - 28.01.2019 Done (Java/Spring); 
-```
-Output API: [{"name":"bhoz"},{"name":"sarol"},{"name":"sloh"},{"name":"godifu"},{"name":"dodowi"}]
-```
+- 00 Name Generator - [Click Here](https://github.com/LukasGaedicke/Programming-Challenges-v1.4/tree/master/challenges/00-Namegenerator-API) - 28.01.2019 Done (Java/Spring); 
+- 01 Higher/Lower-Heads/Tails [Click Here](https://github.com/LukasGaedicke/Programming-Challenges-v1.4/tree/master/challenges/01-HigherLowerHeadsTails) - 29.01.2019 Done (Java); 
+
