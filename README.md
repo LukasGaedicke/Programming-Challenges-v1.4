@@ -6,17 +6,13 @@ This repository containing 2/100 challenges that will solve throughout the year 
 <img src="https://github.com/LukasGaedicke/Programming-Challenges-v1.4/blob/master/assets/challenges.jpg">
 
 ### How to Run
-Go to root project folder and run: 
-```
-mvn clean package
-```
 
-This will create a `jar` file inside the target folder and can be executed with:
-```
-java -jar {NAMEOFCHALLENGE}-0.0.1-SNAPSHOT.jar
-```
+Simple Java terminal programs: 
+[How to run Java applications](https://github.com/LukasGaedicke/Programming-Challenges-v1.4/wiki/runjavaapplication)
 
-Open your browser and access this url: http://localhost:8080/{NAMEOFCHALLENGE}
+Spring Boot APIs: 
+[How to run Spring Boot applications](https://github.com/LukasGaedicke/Programming-Challenges-v1.4/wiki/runspringapp)
+
 
 ### Challenges Finished
 
